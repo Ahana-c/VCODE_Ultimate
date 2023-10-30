@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+.navbar 
+{
+=======
+<<<<<<< HEAD
+.navbar 
+{
+=======
+.navbar{
+>>>>>>> ec7cc13 (Added signin/signup)
+>>>>>>> 96887d7 (Added Signin and Signup)
+    background-color: rgba(0, 2, 39, 1); 
+    padding: 10px; 
+    display: flex;
+    align-items: center;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    color:white;
+>>>>>>> ec7cc13 (Added signin/signup)
+>>>>>>> 96887d7 (Added Signin and Signup)
+}
+  
+.logo 
+{
+    width: 125px; 
+    height: auto; 
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.vertical-line {
+    border-left: 1px solid #7D7D7D;
+    height: 70px;
+<<<<<<< HEAD
+  }
+  
+  
+=======
+<<<<<<< HEAD
+  }
+  
+  
+=======
+}
+
+.auth{
+    display: flex;
+    margin-left: 1300px;
+    align-items: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+>>>>>>> ec7cc13 (Added signin/signup)
+>>>>>>> 96887d7 (Added Signin and Signup)

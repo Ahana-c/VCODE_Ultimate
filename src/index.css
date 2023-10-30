@@ -1,0 +1,42 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+>>>>>>> ec7cc13 (Added signin/signup)
+>>>>>>> 96887d7 (Added Signin and Signup)
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  background-color: #000300;
+>>>>>>> ec7cc13 (Added signin/signup)
+>>>>>>> 96887d7 (Added Signin and Signup)
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+* {
+  scroll-behavior: smooth;
+}
+
+>>>>>>> ec7cc13 (Added signin/signup)
+>>>>>>> 96887d7 (Added Signin and Signup)
